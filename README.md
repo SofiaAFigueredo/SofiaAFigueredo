@@ -13,6 +13,6 @@ Constantly learning. <br>Developer of the Intellecto Android app in React Native
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=btelgeuse&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=btelgeuse&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SofiaAFigueredo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
